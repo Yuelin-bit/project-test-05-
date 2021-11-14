@@ -1,0 +1,14 @@
+target/*
+.settings/*
+.project
+.classpath
+.factorypath
+.attach_pid*
+.idea
+*.iml
+/target
+.sts4-cache/
+.vscode
+_site/
+mvnw
+/src/test/.DS_Store
